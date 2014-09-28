@@ -1,4 +1,3 @@
-File.expand_path '../', __FILE__
 puts "EventManager Initialized!"
 
 lines = File.readlines "event_attendees.csv"
